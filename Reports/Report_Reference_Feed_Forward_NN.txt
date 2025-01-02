@@ -1,0 +1,12 @@
+Reference Feed Forward Neural Network
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.79      0.77      0.78      1000
+     Trouser       0.97      0.97      0.97      1000
+    Pullover       0.84      0.81      0.82      1000
+       Dress       0.88      0.87      0.87      1000
+       Shirt       0.66      0.71      0.69      1000
+
+    accuracy                           0.82      5000
+   macro avg       0.83      0.82      0.83      5000
+weighted avg       0.83      0.82      0.83      5000
